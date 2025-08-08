@@ -99,7 +99,7 @@
         </section>
         <section id="contato" style="margin-top:40px;">
             <h2>Contato</h2>
-            <p>Email: <a href="mailto:engwandao@gmail.com">engwandao@ghmail.com</a></p>
+            <p>Email: <a href="mailto:engwandao@gmail.com">engwandao@gmail.com</a></p>
             <p>Telefone: <a href="tel:+5567984721032">(67) 984721032</a></p>
             <p>Cidade: Campo Grande / MS</p>
         </section>
