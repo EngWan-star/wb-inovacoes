@@ -99,8 +99,8 @@
         </section>
         <section id="contato" style="margin-top:40px;">
             <h2>Contato</h2>
-            <p>Email: <a href="mailto:fabianybatista29@ghmail.com">fabianybatista29@ghmail.com</a></p>
-            <p>Telefone: <a href="tel:+5567993030907">(67) 99303-0907</a></p>
+            <p>Email: <a href="mailto:engwandao@ghmail.com">engwandao@ghmail.com</a></p>
+            <p>Telefone: <a href="tel:+5567984721032">(67) 984721032</a></p>
             <p>Cidade: Campo Grande / MS</p>
         </section>
     </div>
